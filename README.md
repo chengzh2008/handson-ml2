@@ -15,8 +15,8 @@ Use any of the following services.
 
 **WARNING**: Please be aware that these services provide temporary environments: anything you do will be deleted after a while, so make sure you save anything you care about.
 
-* Open this repository in [Binder](https://mybinder.org/v2/gh/ageron/handson-ml2/master):
-<a href="https://mybinder.org/v2/gh/ageron/handson-ml2/master"><img src="https://matthiasbussonnier.com/posts/img/binder_logo_128x128.png" width="90" /></a>
+* Open this repository in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chengzh2008/handson-ml2/master):
+<a href="https://mybinder.org/v2/gh/chengzh2008/handson-ml2/master"><img src="https://mybinder.org/badge_logo.svg" width="90" /></a>
 
   * _Note_: Most of the time, Binder starts up quickly and works great, but when handson-ml2 is updated, Binder creates a new environment from scratch, and this can take quite some time.
 
